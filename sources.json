@@ -1,0 +1,38 @@
+[
+  {
+    "id": "tax",
+    "title": "Постановление ВЦИК о замене продразвёрстки натуральным налогом",
+    "detail": "21 марта 1921 года · Росархив, ГАРФ. Ф. 1235. Оп. 38. Д. 16. Л. 6–7. Первичный источник.",
+    "url": "https://lenin.rusarchives.ru/dokumenty/postanovlenie-vcik-o-zamene-prodovolstvennoy-i-syrevoy-razverstki-naturalnym-nalogom"
+  },
+  {
+    "id": "archive",
+    "title": "Новая экономическая политика: документы эпохи",
+    "detail": "Архивная выставка Росархива · документы об экономике, концессиях и голоде 1921 года.",
+    "url": "https://lenin.rusarchives.ru/novaya-ekonomicheskaya-politika"
+  },
+  {
+    "id": "bank",
+    "title": "Путь червонца: листаем страницы истории",
+    "detail": "Музей Банка России · денежная реформа, выпуск червонцев, ограничения золотого размена.",
+    "url": "https://museum.cbr.ru/articles/put-chervontsa-listaem-stranitsy-istorii/"
+  },
+  {
+    "id": "orlov",
+    "title": "И. Б. Орлов. Государственная промышленная политика в 1920-е гг.",
+    "detail": "Российские регионы: взгляд в будущее. 2015. № 1 · кризисы и управление промышленностью; НИУ ВШЭ.",
+    "url": "https://publications.hse.ru/articles/144113460"
+  },
+  {
+    "id": "unity",
+    "title": "Проект резолюции X съезда РКП(б) «О единстве партии»",
+    "detail": "В. И. Ленин, 14–15 марта 1921 года · Росархив, РГАСПИ. Первичный источник о запрете фракционности.",
+    "url": "https://lenin.rusarchives.ru/dokumenty/pervonachalnyy-proekt-rezolyucii-x-sezda-rkpb-o-edinstve-partii"
+  },
+  {
+    "id": "senyavsky",
+    "title": "А. С. Сенявский. Была ли альтернатива свёртыванию НЭПа?",
+    "detail": "Вопросы теоретической экономики. 2020. № 3. С. 168–182 · исследовательская интерпретация причин сворачивания.",
+    "url": "https://www.inecon.org/docs/2020/Senyavskiy_VTE_2020_3.pdf"
+  }
+]
